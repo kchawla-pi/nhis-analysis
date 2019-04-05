@@ -1,3 +1,8 @@
+# nhis-analysis
+NHIS analysis project for the Parietal retreat 2019
+
+## Use the downloaded data
+
 To use the data downloaded from the [website](https://nhis.ipums.org/nhis-action/extract_requests/download), do the following:
 
 * download the 2 files "DOWNLAD.DAT" and "DDI".
